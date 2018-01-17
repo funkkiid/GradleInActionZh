@@ -1,3 +1,4 @@
+> 本开源书 forked from [Gradle In Action(Gradle实战)中文版](https://github.com/EZLippi/GradleInActionZh)，作者为 [EZLippi](https://github.com/EZLippi)，欢迎大家 star 原作者的 [repo](https://github.com/EZLippi/GradleInActionZh)，以便获得最新更新，谢谢！
 
 又多了一份Gradle教程：Gradle In Action
 
